@@ -1,0 +1,10 @@
+/rest/version/1/user/ua-u10012@perforoteck.com/subscription/ws-77b96e83-689a-4127-9d4e-18976cb03f56
+/rest/version/1/user/ua-u10047@perforoteck.com/subscription/ws-ec77bff9-62a5-427c-8677-1e8e4c069575
+/rest/version/1/user/ua-u10043@perforoteck.com/subscription/ws-95e15c5a-8ffe-41a9-af4a-c6a452e0b955
+/rest/version/1/user/ua-u10005@perforoteck.com/subscription/ws-6ad27f6f-a619-4d2a-a390-7aefddb14574
+/rest/version/1/user/ua-u10015@perforoteck.com/subscription/ws-c1ed22fe-2503-45a6-9c31-7519d011ff68
+/rest/version/1/user/ua-u10029@perforoteck.com/subscription/ws-1a8f778a-c2e4-427b-a8dc-eec1f228b0c7
+/rest/version/1/user/ua-u10046@perforoteck.com/subscription/ws-42201bb2-e144-40c3-8093-d64e59a43b8a
+/rest/version/1/user/ua-u10027@perforoteck.com/subscription/ws-3dfa2b45-4561-4fe0-80ed-f3692b8acc50
+/rest/version/1/user/ua-u10041@perforoteck.com/subscription/ws-4a57f042-5317-4e1a-b55d-635e558e83ab
+/rest/version/1/user/ua-u10028@perforoteck.com/subscription/ws-97e9634d-bf47-40f7-bb29-7647b9bbd9fa
