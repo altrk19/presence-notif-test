@@ -1,9 +1,9 @@
-640 rate, 22k subscriber, 24 hour:
-1 loop:11dk 30sec
-125 loop :24h
-java -jar presence.jar 640 20 resource.txt http://10.109.25.140:8080 125 &disown
+666 rate, 22k subscriber, 24 hour:
+1 loop:~11min
+130 loop :24h
+java -jar presence.jar 666 20 resource.txt http://10.109.25.140:8080 130 &disown
 
-320 rate, 11k subscriber, 24hour:
-1 loop:11m 30sec
-125 loop:24h
-java -jar presence.jar 320 20 resource.txt http://10.109.25.140:8080 125 &disown
+333 rate, 11k subscriber, 24hour:
+1 loop:~11min
+130 loop :24h
+java -jar presence.jar 333 20 resource.txt http://10.109.25.140:8080 130 &disown

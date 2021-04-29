@@ -43,14 +43,14 @@ public class PresenceApplication implements CommandLineRunner {
         int rate = Integer.parseInt(args[0]);
         int threadSize;
         int counterLimit;
-        if (rate == 640) {
+        if (rate == 666) {
             threadSize = 16;
-            counterLimit = 40;
-        } else if (rate == 320) {
+            counterLimit = 41;
+        } else if (rate == 333) {
             threadSize = 16;
-            counterLimit = 20;
+            counterLimit = 21;
         } else {
-            log.error("Not supported rate. Please choose one of [640,320]");
+            log.error("Not supported rate. Please choose one of [666,333]");
             System.exit(1);
             return;
         }
